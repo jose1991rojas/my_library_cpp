@@ -20,3 +20,5 @@ Clona (git clone) el repositorio en tu path: /home/user/
 Copia la librería al path del sistema: sudo cp ruzza.h /usr/local/include/ 
 o mv /home/user/ruzza.h /usr/local/include/ruzza.h
 
+Installation (Automatic Installation)
+<img width="415" height="189" alt="image" src="https://github.com/user-attachments/assets/bf53bb49-4282-4055-837c-d8cc29136e9b" />
