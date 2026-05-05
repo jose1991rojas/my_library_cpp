@@ -21,4 +21,11 @@ void strrev(char palabra[]) {
     }
 }
 
+// Funcionalidad strlwr(); es antigua pero la cree para seguir usandola, es para cambiar palabras mayusculas a minusculas.
+void strlwr(char palabra[]) {
+    for (int i = 0; palabra[i] != '\0'; i++) {
+        palabra[i] = tolower((unsigned char)palabra[i]);
+    }
+}
+
 #endif // <--- ESTO SIEMPRE DEBE IR AL FINAL para que mi libreria funcione
